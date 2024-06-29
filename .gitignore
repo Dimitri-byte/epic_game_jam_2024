@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Build*
+Content\KTP_Effect*
+Content/KTP_Effect*
